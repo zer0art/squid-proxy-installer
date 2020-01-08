@@ -87,3 +87,4 @@ else
 fi
 
 #/usr/bin/htpasswd -b -c /etc/squid/passwd USERNAME_HERE PASSWORD_HERE
+#/lib/systemd/systemd-sysv-install enable squid
